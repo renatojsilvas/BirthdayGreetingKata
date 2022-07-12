@@ -1,4 +1,4 @@
-# Sends Greetings Kata
+# Birthday Greetings Kata
 
 Kata based on http://matteo.vaccari.name/blog/archives/154. The idea is exercise the [Hexagonal Architecture](https://alistair.cockburn.us/hexagonal-architecture/) idea. The original is written in java. Here our goal is work with C#.
 
